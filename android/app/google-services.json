@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "553309123222",
+    "firebase_url": "https://glad-bettor-11082.firebaseio.com",
+    "project_id": "glad-bettor-11082",
+    "storage_bucket": "glad-bettor-11082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553309123222:android:2aeef94057db8c847988b7",
+        "android_client_info": {
+          "package_name": "com.example.gladbettor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553309123222-qijh7pidusbnmclon4abelhf5rfn6rf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gladbettor",
+            "certificate_hash": "9c449bf7ee8922400d924543b3161f952caedf61"
+          }
+        },
+        {
+          "client_id": "553309123222-e48cmi2oof2u1jb4v1j57sl52q8n2fv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQBXSq0U-C2grDxY8u8WWpUmYBn09cqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553309123222-e48cmi2oof2u1jb4v1j57sl52q8n2fv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553309123222-5o0pmh81mijdmnjrchhndghk6pvek12q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glad.bettor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553309123222:android:8e6685e27917b5ad7988b7",
+        "android_client_info": {
+          "package_name": "com.glad.bettor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553309123222-2r1gs3obd7t9sejt3ult1gi2mus16ovg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glad.bettor",
+            "certificate_hash": "8fab8996356eb7add5bf255ae0246cd5c26e34ff"
+          }
+        },
+        {
+          "client_id": "553309123222-n79battor8sime5ka9qdife7kvlfmm1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glad.bettor",
+            "certificate_hash": "3215cdcc6cd73bb718614c404f2038643c56de52"
+          }
+        },
+        {
+          "client_id": "553309123222-ofg2eglo5tb5a0hmdkhkssdd402fdhf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glad.bettor",
+            "certificate_hash": "9b7521e9fc10918cd4f639f719d6c8ea345125ea"
+          }
+        },
+        {
+          "client_id": "553309123222-e48cmi2oof2u1jb4v1j57sl52q8n2fv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQBXSq0U-C2grDxY8u8WWpUmYBn09cqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553309123222-e48cmi2oof2u1jb4v1j57sl52q8n2fv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "553309123222-5o0pmh81mijdmnjrchhndghk6pvek12q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glad.bettor"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1588430613544586~9897515671"
+    }
+  ],
+  "configuration_version": "1"
+}
